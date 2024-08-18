@@ -206,6 +206,7 @@ const Product = () => {
             </div>
           </ul>
         </div>
+        
         {/* search ph */}
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn m-1">
