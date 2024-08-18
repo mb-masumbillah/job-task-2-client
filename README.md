@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# assignment_category_0009
 
-Currently, two official plugins are available:
+# Website name 
+Welcome to My Website! My website name is SMART GADGET
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Site URL
+[https://job-task-cc93b.web.app/](https://job-task-cc93b.web.app/)
+
+
+## Features and Characteristics
+
+- **Features Added :** To enter this website, you need to log or register first, then you will be allowed to enter, you can search here, search data, filter data, sort data.
