@@ -60,7 +60,6 @@ const Product = () => {
   const pages = [...Array(numberOfPages).keys()];
 
   useEffect(() => {
-    
     const d = async () => {
       if (searchName) {
         const res = await axios.get(
