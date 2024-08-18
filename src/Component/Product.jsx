@@ -234,7 +234,6 @@ const Product = () => {
             Category
           </div>
           <ul
-
             tabIndex={0}
             className="dropdown-content bg-base-100 rounded-box z-[1] w-52 -right-5 p-2 shadow"
           >
@@ -302,7 +301,6 @@ const Product = () => {
             onChange={(e) => setSorting(e.target.value)}
             className="select select-bordered w-full max-w-xs"
           >
-            
             <option disabled selected>
               Sort
             </option>
