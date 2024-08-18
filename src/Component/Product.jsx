@@ -237,6 +237,7 @@ const Product = () => {
             tabIndex={0}
             className="dropdown-content bg-base-100 rounded-box z-[1] w-52 -right-5 p-2 shadow"
           >
+            
             <div className="pt-5">
               <h2 className="text-red-500 text-xl font-bold">Category</h2>
               <div className=" pt-4">
