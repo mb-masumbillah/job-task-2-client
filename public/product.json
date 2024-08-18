@@ -1,0 +1,402 @@
+[
+  {
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
+    "description": "Apple iPhone 13 with A15 Bionic chip",
+    "price": 999,
+    "category": "smartphone",
+    "ratings": 4.7,
+    "createdAt": "2024-08-01T10:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "brand": "Samsung",
+    "image": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20220117_1642398692_412261.png",
+    "description": "Samsung Galaxy S21 with Exynos 2100",
+    "price": 899,
+    "category": "smartphone",
+    "ratings": 4.5,
+    "createdAt": "2024-08-02T11:00:00Z"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "brand": "OnePlus",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/%F0%9D%97%A2%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80-%F0%9D%9F%97-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC-Forest-Green-7056.jpg",
+    "description": "OnePlus 9 Pro with Snapdragon 888",
+    "price": 799,
+    "category": "smartphone",
+    "ratings": 4.6,
+    "createdAt": "2024-08-03T12:00:00Z"
+  },
+  {
+    "name": "Google Pixel 6",
+    "brand": "Google",
+    "image": "https://i.ibb.co/pJj7Pm9/4.jpg",
+    "description": "Google Pixel 6 with Google Tensor chip",
+    "price": 749,
+    "category": "smartphone",
+    "ratings": 4.4,
+    "createdAt": "2024-08-04T13:00:00Z"
+  },
+  {
+    "name": "MacBook Pro 14",
+    "brand": "Apple",
+    "image": "https://i.ibb.co/JF8HYqb/5.jpg",
+    "description": "Apple MacBook Pro 14 with M1 Pro chip",
+    "price": 1999,
+    "category": "laptop",
+    "ratings": 4.9,
+    "createdAt": "2024-08-05T14:00:00Z"
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "image": "https://i.ibb.co/r48qcK9/6.jpg",
+    "description": "Dell XPS 13 with Intel i7 11th Gen",
+    "price": 1299,
+    "category": "laptop",
+    "ratings": 4.7,
+    "createdAt": "2024-08-06T15:00:00Z"
+  },
+  {
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "image": "https://i.ibb.co/RbxtczH/07.jpg",
+    "description": "HP Spectre x360 with Intel i7 12th Gen",
+    "price": 1499,
+    "category": "laptop",
+    "ratings": 4.8,
+    "createdAt": "2024-08-07T16:00:00Z"
+  },
+  {
+    "name": "Asus ROG Zephyrus",
+    "brand": "Asus",
+    "image": "https://i.ibb.co/J2dSB6Q/08.jpg",
+    "description": "Asus ROG Zephyrus gaming laptop",
+    "price": 1799,
+    "category": "laptop",
+    "ratings": 4.9,
+    "createdAt": "2024-08-08T17:00:00Z"
+  },
+  {
+    "name": "Rolex Submariner",
+    "brand": "Rolex",
+    "image": "https://i.ibb.co/Z8VY3kS/09.jpg",
+    "description": "Rolex Submariner luxury watch",
+    "price": 8999,
+    "category": "watch",
+    "ratings": 5.0,
+    "createdAt": "2024-08-09T18:00:00Z"
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "brand": "Apple",
+    "image": "https://i.ibb.co/0mGtjGJ/010.jpg",
+    "description": "Apple Watch Series 7 with GPS",
+    "price": 399,
+    "category": "watch",
+    "ratings": 4.6,
+    "createdAt": "2024-08-10T19:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "brand": "Samsung",
+    "image": "https://i.ibb.co/XsCD4vB/011.jpg",
+    "description": "Samsung Galaxy Watch 4 with Wear OS",
+    "price": 349,
+    "category": "watch",
+    "ratings": 4.5,
+    "createdAt": "2024-08-11T20:00:00Z"
+  },
+  {
+    "name": "Garmin Fenix 6",
+    "brand": "Garmin",
+    "image": "https://i.ibb.co/QJRxB6h/012.jpg",
+    "description": "Garmin Fenix 6 outdoor smartwatch",
+    "price": 599,
+    "category": "watch",
+    "ratings": 4.7,
+    "createdAt": "2024-08-12T21:00:00Z"
+  },
+  {
+    "name": "Alienware Aurora R10",
+    "brand": "Alienware",
+    "image": "https://i.ibb.co/hKq9D5J/013.jpg",
+    "description": "Alienware Aurora R10 gaming PC",
+    "price": 2499,
+    "category": "pc",
+    "ratings": 4.8,
+    "createdAt": "2024-08-13T22:00:00Z"
+  },
+  {
+    "name": "HP Omen 30L",
+    "brand": "HP",
+    "image": "https://i.ibb.co/JCFWLnk/014.jpg",
+    "description": "HP Omen 30L gaming desktop",
+    "price": 2199,
+    "category": "pc",
+    "ratings": 4.7,
+    "createdAt": "2024-08-14T23:00:00Z"
+  },
+  {
+    "name": "iMac 24-inch",
+    "brand": "Apple",
+    "image": "https://i.ibb.co/mcd8PGB/015.jpg",
+    "description": "Apple iMac 24-inch with M1 chip",
+    "price": 1499,
+    "category": "pc",
+    "ratings": 4.8,
+    "createdAt": "2024-08-15T00:00:00Z"
+  },
+  {
+    "name": "Lenovo Legion Tower 5i",
+    "brand": "Lenovo",
+    "image": "https://i.ibb.co/gThqcq2/016.jpg",
+    "description": "Lenovo Legion Tower 5i gaming PC",
+    "price": 1899,
+    "category": "pc",
+    "ratings": 4.6,
+    "createdAt": "2024-08-16T01:00:00Z"
+  },
+  {
+    "name": "Sony Xperia 1 III",
+    "brand": "Sony",
+    "image": "https://i.ibb.co/L88VjcJ/017.jpg",
+    "description": "Sony Xperia 1 III with 4K HDR display",
+    "price": 1199,
+    "category": "smartphone",
+    "ratings": 4.4,
+    "createdAt": "2024-08-17T02:00:00Z"
+  },
+  {
+    "name": "Xiaomi Mi 11 Ultra",
+    "brand": "Xiaomi",
+    "image": "https://i.ibb.co/tK13r0S/018.jpg",
+    "description": "Xiaomi Mi 11 Ultra with Snapdragon 888",
+    "price": 899,
+    "category": "smartphone",
+    "ratings": 4.5,
+    "createdAt": "2024-08-18T03:00:00Z"
+  },
+  {
+    "name": "Huawei Mate 40 Pro",
+    "brand": "Huawei",
+    "image": "https://i.ibb.co/wSStt6F/019.jpg",
+    "description": "Huawei Mate 40 Pro with Kirin 9000",
+    "price": 1199,
+    "category": "smartphone",
+    "ratings": 4.6,
+    "createdAt": "2024-08-19T04:00:00Z"
+  },
+  {
+    "name": "Google Pixelbook Go",
+    "brand": "Google",
+    "image": "https://i.ibb.co/vjtdZTg/020.jpg",
+    "description": "Google Pixelbook Go with Chrome OS",
+    "price": 649,
+    "category": "laptop",
+    "ratings": 4.3,
+    "createdAt": "2024-08-20T05:00:00Z"
+  },
+  {
+    "name": "Asus ZenBook 14",
+    "brand": "Asus",
+    "image": "https://i.ibb.co/m6S4KHd/021.jpg",
+    "description": "Asus ZenBook 14 with AMD Ryzen 7",
+    "price": 999,
+    "category": "laptop",
+    "ratings": 4.7,
+    "createdAt": "2024-08-21T06:00:00Z"
+  },
+  {
+    "name": "Microsoft Surface Laptop 4",
+    "brand": "Microsoft",
+    "image": "https://i.ibb.co/1Kf3Xy6/022.jpg",
+    "description": "Microsoft Surface Laptop 4 with Intel i7",
+    "price": 1599,
+    "category": "laptop",
+    "ratings": 4.6,
+    "createdAt": "2024-08-22T07:00:00Z"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "image": "https://i.ibb.co/QrW1k5M/023.jpg",
+    "description": "Sony WH-1000XM4 Noise Cancelling Headphones",
+    "price": 349,
+    "category": "headphones",
+    "ratings": 4.8,
+    "createdAt": "2024-08-23T08:00:00Z"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "brand": "Bose",
+    "image": "https://i.ibb.co/CHC5TSh/024.jpg",
+    "description": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "price": 299,
+    "category": "headphones",
+    "ratings": 4.7,
+    "createdAt": "2024-08-24T09:00:00Z"
+  },
+  {
+    "name": "JBL Flip 5",
+    "brand": "JBL",
+    "image": "https://i.ibb.co/02d6tP3/025.jpg",
+    "description": "JBL Flip 5 Waterproof Portable Bluetooth Speaker",
+    "price": 119,
+    "category": "speaker",
+    "ratings": 4.6,
+    "createdAt": "2024-08-25T10:00:00Z"
+  },
+  {
+    "name": "Amazon Echo Dot (4th Gen)",
+    "brand": "Amazon",
+    "image": "https://i.ibb.co/LnPS5fF/026.jpg",
+    "description": "Amazon Echo Dot (4th Gen) Smart speaker with Alexa",
+    "price": 49,
+    "category": "speaker",
+    "ratings": 4.5,
+    "createdAt": "2024-08-26T11:00:00Z"
+  },
+  {
+    "name": "Nest Learning Thermostat",
+    "brand": "Google",
+    "image": "https://i.ibb.co/zZht7j1/027.jpg",
+    "description": "Google Nest Learning Thermostat",
+    "price": 249,
+    "category": "home automation",
+    "ratings": 4.8,
+    "createdAt": "2024-08-27T12:00:00Z"
+  },
+  {
+    "name": "Ring Video Doorbell 3",
+    "brand": "Ring",
+    "image": "https://i.ibb.co/pwG4nb6/028.jpg",
+    "description": "Ring Video Doorbell 3 with 1080p HD video",
+    "price": 199,
+    "category": "home security",
+    "ratings": 4.7,
+    "createdAt": "2024-08-28T13:00:00Z"
+  },
+  {
+    "name": "Philips Hue Starter Kit",
+    "brand": "Philips",
+    "image": "https://i.ibb.co/FqnPjFd/029.jpg",
+    "description": "Philips Hue White and Color Ambiance Starter Kit",
+    "price": 179,
+    "category": "smart lighting",
+    "ratings": 4.8,
+    "createdAt": "2024-08-29T14:00:00Z"
+  },
+  {
+    "name": "Dyson V11 Torque Drive",
+    "brand": "Dyson",
+    "image": "https://i.ibb.co/CPD5NNQ/030.jpg",
+    "description": "Dyson V11 Torque Drive Cordless Vacuum Cleaner",
+    "price": 699,
+    "category": "vacuum cleaner",
+    "ratings": 4.9,
+    "createdAt": "2024-08-30T15:00:00Z"
+  },
+  {
+    "name": "GoPro Hero 10",
+    "brand": "GoPro",
+    "image": "https://i.ibb.co/N6V1BZR/031.jpg",
+    "description": "GoPro Hero 10 Black with 5.3K Video",
+    "price": 499,
+    "category": "camera",
+    "ratings": 4.7,
+    "createdAt": "2024-08-31T16:00:00Z"
+  },
+  {
+    "name": "Canon EOS R5",
+    "brand": "Canon",
+    "image": "https://i.ibb.co/JqP08Gk/032.jpg",
+    "description": "Canon EOS R5 Mirrorless Camera with 8K Video",
+    "price": 3899,
+    "category": "camera",
+    "ratings": 4.9,
+    "createdAt": "2024-09-01T17:00:00Z"
+  },
+  {
+    "name": "DJI Mavic Air 2",
+    "brand": "DJI",
+    "image": "https://i.ibb.co/mJLS3kT/033.jpg",
+    "description": "DJI Mavic Air 2 - Drone Quadcopter UAV with 48MP Camera",
+    "price": 799,
+    "category": "drone",
+    "ratings": 4.8,
+    "createdAt": "2024-09-02T18:00:00Z"
+  },
+  {
+    "name": "Razer DeathAdder V2",
+    "brand": "Razer",
+    "image": "https://i.ibb.co/Tvg5yHZ/034.jpg",
+    "description": "Razer DeathAdder V2 Gaming Mouse with 20K DPI Optical Sensor",
+    "price": 69,
+    "category": "gaming accessory",
+    "ratings": 4.7,
+    "createdAt": "2024-09-03T19:00:00Z"
+  },
+  {
+    "name": "Logitech G Pro X",
+    "brand": "Logitech",
+    "image": "https://i.ibb.co/NZd1JWy/035.jpg",
+    "description": "Logitech G Pro X Gaming Headset with Blue Voice",
+    "price": 129,
+    "category": "gaming accessory",
+    "ratings": 4.6,
+    "createdAt": "2024-09-04T20:00:00Z"
+  },
+  {
+    "name": "HyperX Alloy FPS Pro",
+    "brand": "HyperX",
+    "image": "https://i.ibb.co/Q8QnDTy/036.jpg",
+    "description": "HyperX Alloy FPS Pro - Tenkeyless Mechanical Gaming Keyboard",
+    "price": 89,
+    "category": "gaming accessory",
+    "ratings": 4.7,
+    "createdAt": "2024-09-05T21:00:00Z"
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "brand": "Apple",
+    "image": "https://i.ibb.co/hyHBk0W/037.jpg",
+    "description": "Apple AirPods Pro with Active Noise Cancellation",
+    "price": 249,
+    "category": "headphones",
+    "ratings": 4.8,
+    "createdAt": "2024-09-06T22:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Buds Pro",
+    "brand": "Samsung",
+    "image": "https://i.ibb.co/kcH2mFt/038.jpg",
+    "description": "Samsung Galaxy Buds Pro with Intelligent ANC",
+    "price": 199,
+    "category": "headphones",
+    "ratings": 4.7,
+    "createdAt": "2024-09-07T23:00:00Z"
+  },
+  {
+    "name": "Anker Soundcore Liberty Air 2",
+    "brand": "Anker",
+    "image": "https://i.ibb.co/3pZ2prb/039.jpg",
+    "description": "Anker Soundcore Liberty Air 2 True Wireless Earbuds",
+    "price": 99,
+    "category": "headphones",
+    "ratings": 4.6,
+    "createdAt": "2024-09-08T00:00:00Z"
+  },
+  {
+    "name": "Nvidia Shield TV Pro",
+    "brand": "Nvidia",
+    "image": "https://i.ibb.co/mF8t1QZ/040.jpg",
+    "description": "Nvidia Shield TV Pro Streaming Media Player with 4K HDR",
+    "price": 199,
+    "category": "media player",
+    "ratings": 4.8,
+    "createdAt": "2024-09-09T01:00:00Z"
+  }
+]
